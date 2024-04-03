@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Muhammad Urfat
+- 💞️ I'm a student in B.com
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning python
